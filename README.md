@@ -64,8 +64,6 @@ Project Link: [https://github.com/mahdi-mirz/StockViz-AI](https://github.com/mah
 
 # تحلیل و پیش‌بینی پیشرفته سهام StockViz-AI:
 
-[English](#stockviz-ai-advanced-stock-analysis-and-prediction)
-
 <div dir="rtl">
 
 یک برنامه وب پیشرفته مبتنی بر پایتون است که تحلیل و پیش‌بینی سهام را متحول می‌کند. با استفاده از قدرت Streamlit، yfinance و الگوریتم‌های یادگیری ماشین، این برنامه ابزاری قدرتمند برای سرمایه‌گذاران و تحلیلگران مالی جهت تصمیم‌گیری آگاهانه در بازار سهام فراهم می‌کند.
