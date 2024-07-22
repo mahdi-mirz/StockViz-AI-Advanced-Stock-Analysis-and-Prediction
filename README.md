@@ -36,4 +36,4 @@ StockViz-AI is a powerful Python-based web application that provides comprehensi
 
 ## نصب
 
-1. کلون کردن مخزن:
+1. کلون کردن مخزن
